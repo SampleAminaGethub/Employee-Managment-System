@@ -1,7 +1,6 @@
 
-  # Employee Management System
+   Employee Management System
 
-  This is a code bundle for Employee Management System. The original project is available at https://www.figma.com/design/AWWix3YHtdjv4ZyEMH2XNx/Employee-Management-System.
 
   ## Running the code
 
